@@ -4,7 +4,7 @@
 
 I am a **Master’s student in Computer Science and Engineering at Pennsylvania State University**, with a strong foundation in **software engineering** and hands-on experience across **backend development, frontend development, and applied AI/ML concepts**. I enjoy building scalable, real-world systems and am particularly interested in roles that allow me to work close to production-grade software.
 
-I am actively seeking **Software Development Internships (Summer 2025)** across the United States and am open to relocation.
+I am actively seeking **Software Development Internships (Summer 2025)** across the United States.
 
 ---
 
