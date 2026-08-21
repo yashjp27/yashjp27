@@ -4,8 +4,7 @@
 
 I am a **Master’s student in Computer Science and Engineering at Pennsylvania State University**, with a strong foundation in **software engineering** and hands-on experience across **backend development, frontend development, and applied AI/ML concepts**. I enjoy building scalable, real-world systems and am particularly interested in roles that allow me to work close to production-grade software.
 
-I am actively seeking **Software Development Internships (Summer 2025)** across the United States.
-
+I am actively seeking **full-time Software Engineering opportunities starting in 2027** across the United States.
 ---
 
 ## 🎓 Education
@@ -16,6 +15,13 @@ I am actively seeking **Software Development Internships (Summer 2025)** across 
 ---
 
 ## 💼 Experience
+
+### Teaching Assistant — Pennsylvania State University *(August 2025 – December 2026)*
+
+*CMPSC 464: Introduction to Theory of Computation — Promoted from Learning Assistant*
+
+* Supported 30+ students across **CMPSC 461 Programming Languages** and **CMPSC 464 Theory of Computation** through weekly office hours; written explanations were adopted into official course notes.
+* Designed targeted problem sets based on recurring student misconceptions, helping reduce repeated errors in subsequent assessments.
 
 ### Software Development Intern — Electroquip *(Summer 2024)*
 
@@ -33,15 +39,23 @@ I am actively seeking **Software Development Internships (Summer 2025)** across 
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java, C, C++, Python, JavaScript
-**Frontend:** React.js, HTML, CSS
-**Backend:** Node.js, Express.js, REST APIs
-**Databases:** MongoDB, SQL, Firebase
+**Languages:** Java, C, C++, Python, JavaScript  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, SQL, Firebase  
 **Tools & Platforms:** Git, GitHub, Agile/Scrum, Web3.js, Solidity, Ethereum Tooling
 
 ---
 
 ## 📌 Projects
+
+### 🏥 Faithful Clinical Summarization
+
+*Python, PyTorch, Llama-3, Hugging Face, MIMIC-III*
+
+* Built an AI pipeline to transform patient medical notes into structured clinical summaries while reducing hallucinated medical information.
+* Fine-tuned a large language model on hospital data using an efficient low-memory training technique, enabling fast inference on a standard consumer GPU.
+* Added a second AI model to verify generated claims against the original clinical note, reducing factual errors by **35%** compared to an unverified baseline.
 
 ### 🔐 StealthComm App
 
